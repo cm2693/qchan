@@ -23,7 +23,7 @@ if(!$results) {
 		<a id="add" title="<?=__('Upload files') ?>">&#xe600;</a>
 		<p><?=__('Upload files') ?></p>
 		<p class="hide_mobile"><?=__('Drag and drop files here') ?></p>
-		<p class="compatible hide_mobile"><?=__('Only works with IE 10+ and other mordern browser') ?></p>
+		<p class="compatible hide_mobile"><?=__('Only works with IE 10+ and other mordern browser such as EDGE ? COMP356 Exc') ?></p>
 	</div>
 <?php } ?>
 

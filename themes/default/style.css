@@ -68,7 +68,7 @@ button.negative:active {
  *       Header       *
  **********************/
 #main_header {
-	background-color: mediumseagreen;
+	background-color: black;
 	color:white;
 	position: fixed;
 	top: 0;
